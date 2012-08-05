@@ -1,2 +1,3 @@
+cp ../vm-finished/Vagrantfile .
 cp ../vm-finished/manifests/base.pp manifests/base.pp
 cp -r ../vm-finished/files/ files
