@@ -8,7 +8,7 @@ Time needed: 10 - 14 min.
 What to prepare to follow the demo
 ----------------------------------
 1. Install Vagrant: http://downloads.vagrantup.com/tags/v1.0.3
-2. Install `$ vagrant gem install vagrant-vbguest`
+2. Install `$ vagrant gem install vagrant-vbguest` ([Why?](http://theholyjava.wordpress.com/wiki/tools/vagrant-notes/#tip_install_vagrant-vbguest))
 3. Download a base box: `vagrant box add base http://files.vagrantup.com/lucid32.box`
 4. Install VirtualBox, e,g, 4.1.16: http://download.virtualbox.org/virtualbox/4.1.16/
    (For the presenter: Make sure the VB version is the same as VB Guest Additions installed on the base box.)
